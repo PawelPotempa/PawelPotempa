@@ -1,9 +1,9 @@
 ### Hi there, I'm Paweł!👋<hr>
 
 ### Who am I?
-I'm an Environmental Engineering student, aspiring to become a **Frontend Developer!**
+I'm an Environmental Engineering, aspiring to become a **Frontend Developer!**
 
-— 💡 I'm currently working on a store application using MERN stack and TypeScript! <br/>
+— 💡 I'm currently working on a portfolio using Three.js! <br/>
 — 🧠 I try to tackle at least one new technology with every new project <br/>
 — 🎯 My goal for 2022 is to contribute to an open source project! <br/>
 — 💼 **I'm actively looking for my first job!** <br/>
