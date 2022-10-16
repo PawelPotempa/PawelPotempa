@@ -1,7 +1,7 @@
 ### Hi there, I'm Paweł!👋<hr>
 
 ### Who am I?
-I'm an Environmental Engineering, aspiring to become a **Frontend Developer!**
+I'm an Environmental Engineer, aspiring to become a **Frontend Developer!**
 
 — 💡 I'm currently working on a portfolio using Three.js! <br/>
 — 🧠 I try to tackle at least one new technology with every new project <br/>
